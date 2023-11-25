@@ -1,6 +1,7 @@
 # React Testing with React Testing Library(RTL)
 
 Summary of methods available on **screen** object
+![testing-summary](https://github.com/serengia/react-testing-with-RTL/assets/69452516/1b6d4457-f9df-4eb8-b3e9-f2c1f7cae3c6)
 
 ## Available Scripts
 
